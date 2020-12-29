@@ -1,6 +1,6 @@
 # CV-and-Personal-Information
 # Personal information 
-Hi! My name is José Pablo Fernández Cordero. I'm a Costarrican 🇨🇷 full stack developer. Under the file [José's Resume(2).pdf](https://github.com/jferco/CV-and-Personal-Information/blob/master/Jos%C3%A9's%20Resume(2).pdf) in this repository, you will find my Developer CV and under you will find my QA/automation CV
+Hi! My name is José Pablo Fernández Cordero. I'm a Costarrican 🇨🇷 full stack developer. Under the file [Jose develop.pdf](https://github.com/jferco/CV-and-Personal-Information/blob/master/Jose%20develop.pdf) in this repository, you will find my Developer CV and under [JoseQA-automation.pdf](https://github.com/jferco/CV-and-Personal-Information/blob/master/JoseQA-automation.pdf), you will find my QA/automation CV
 ## Interests
 
 My technological interests as a developer are:
